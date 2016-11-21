@@ -1,0 +1,2 @@
+# CSharpTestRedis
+Using StackExchange.Redis
